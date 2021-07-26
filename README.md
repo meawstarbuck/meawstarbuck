@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack developer.
 - 🌱 I’m currently React Netive, Angular and Springboot.
 - 💞️ I’m looking to collaborate on ...
-- 📫 Contact: linkedin.com/in/tanawan-tangtoenjai-9132aa18a 
+- 📫 Contact: www.linkedin.com/in/tanawan-tangtoenjai
 
 <!---
 meawstarbuck/meawstarbuck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
